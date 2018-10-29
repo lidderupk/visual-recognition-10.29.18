@@ -2,10 +2,7 @@
 
 This is a good starting point if you are new to IBM Cloud and Watson Visual Recognition. IBM offers multiple paths into the Visual Recognition space depending on your experience. This online workshop is designed for beginners and intermediate programmers.
 
-```
-Upkar Lidder, IBM Developer Advocate (@lidderupk)
-Upkar Lidder is a Full Stack Developer and Data Wrangler with strong experience in NodeJS and Python. His current passions include enjoying various kinds of ramen, hiking, tennis and learning the magic behind ML. He is always up for a chat over good coffee and/or beer.
-```
+Upkar Lidder, IBM Developer Advocate (@lidderupk) is a Full Stack Developer and Data Wrangler with strong experience in NodeJS and Python. His current passions include enjoying various kinds of ramen, hiking, tennis and learning the magic behind ML. He is always up for a chat over good coffee and/or beer.
 
 ## Links
 1. [IBM Cloud sign up](https://ibm.biz/BdYbR8)
